@@ -1,0 +1,22 @@
+Reproducibility info
+====================
+
+Project
+-------
+Project repository:     git@github.com:latower/SBG-bounds.git
+Project commit:         "3cd30f72630e07474cd1538040a3586855279321"
+
+RoundingSAT
+-----------
+RoundingSAT repository: https://gitlab.com/MIAOresearch/software/roundingsat.git
+RoundingSAT commit:     "c548e1098a81d1f57dfc31560208034253d174c1"
+
+VeriPB
+------
+VeriPB repository:      https://gitlab.com/MIAOresearch/software/VeriPB.git
+VeriPB commit:          "54070be168642d4b14988841d958691c39c61350"
+
+Other
+-----
+Python version:         Python 3.12.1
+Networkx version:       networkx                  3.1             py312hd43f75c_0  

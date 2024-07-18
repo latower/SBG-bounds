@@ -1,0 +1,6 @@
+[encode_network.py], 2024-07-18, 16h21m32s: Initialising PB instance.
+[encode_network.py], 2024-07-18, 16h21m32s: Parsing network /home/anna/projects/SBG-bounds/input/SBG.edges.
+[encode_network.py], 2024-07-18, 16h21m32s: Building completed.
+[encode_network.py], 2024-07-18, 16h21m32s: Encoding /home/anna/projects/SBG-bounds/input/SBG.edges with budget 10 into a set of PB constraints.
+[encode_network.py], 2024-07-18, 16h21m32s: Encoding completed! Written to /home/anna/projects/SBG-bounds/output/SBG.edges.b_10.it_00.opb.
+[encode_network.py], 2024-07-18, 16h21m32s: Done!

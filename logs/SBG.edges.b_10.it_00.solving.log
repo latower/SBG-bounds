@@ -1,0 +1,90 @@
+c RoundingSat 2
+c branch HEAD
+c commit c548e10
+c #variables 32 #constraints 273
+c cpu time 0.001137 s
+c deterministic time 11147 1.11e+04
+c optimization time 2e-05 s
+c total solve time 0.000407 s
+c core-guided solve time 0 s
+c propagation time 0.000225 s
+c conflict analysis time 0.000172 s
+c propagations 467
+c resolve steps 140
+c decisions 64
+c conflicts 43
+c restarts 1
+c inprocessing phases 0
+c input clauses 272
+c input cardinalities 1
+c input general constraints 0
+c input average constraint length 8.15
+c input average constraint degree 1.08
+c learned clauses 11
+c learned cardinalities 19
+c learned general constraints 13
+c learned average constraint length 15.65
+c learned average constraint degree 7.21
+c watched constraints 6
+c counting constraints 7
+c gcd simplifications 1
+c detected cardinalities 2
+c weakened non-implied lits 151
+c weakened non-implying lits 0
+c original variables 32
+c clausal propagations 133
+c cardinality propagations 167
+c watched propagations 8
+c counting propagations 29
+c watch lookups 2024
+c watch backjump lookups 163
+c watch checks 4180
+c propagation checks 1499
+c constraint additions 2175
+c trail pops 574
+c formula constraints 273
+c learned constraints 43
+c bound constraints 0
+c core-guided constraints 0
+c encountered formula constraints 102
+c encountered learned constraints 81
+c encountered bound constraints 0
+c encountered core-guided constraints 0
+c LP total time 0 s
+c LP solve time 0 s
+c LP constraints added 0
+c LP constraints removed 0
+c LP pivots internal 0
+c LP pivots root 0
+c LP calls 0
+c LP optimalities 0
+c LP no pivot count 0
+c LP infeasibilities 0
+c LP valid Farkas constraints 0
+c LP learned Farkas constraints 0
+c LP basis resets 0
+c LP cycling count 0
+c LP singular count 0
+c LP no primal count 0
+c LP no farkas count 0
+c LP other issue count 0
+c LP Gomory cuts 0
+c LP learned cuts 0
+c LP deleted cuts 0
+c LP encountered Gomory constraints 0
+c LP encountered Farkas constraints 0
+c LP encountered learned Farkas constraints 0
+c CG auxiliary variables introduced 0
+c CG solutions found 0
+c CG cores constructed 0
+c CG core cardinality constraints returned 0
+c CG unit cores 0
+c CG single cores 0
+c CG blocks removed during cardinality reduction 0
+c CG first core best 0
+c CG decision core best 0
+c CG core reduction tie 0
+c CG core degree average 0.00
+c CG core slack average 0.00
+s SATISFIABLE
+v -x1 -x2 -x3 -x4 -x5 x6 -x7 -x8 x9 -x10 x11 -x12 x13 -x14 -x15 x16 x17 -x18 -x19 x20 -x21 x22 -x23 -x24 x25 -x26 -x27 -x28 -x29 -x30 -x31 x32
