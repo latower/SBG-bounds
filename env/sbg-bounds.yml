@@ -1,0 +1,6 @@
+name: sbg-bounds
+channels:
+- defaults
+dependencies:
+  - networkx==3.1
+  - python==3.12.1
